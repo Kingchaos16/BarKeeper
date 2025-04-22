@@ -1,1 +1,1 @@
-ld# BarKeeper
+Dieses Projekt dient dazu, die Getränke in einer Bar zu verfolgen und Vorschläge für Cocktails zu machen, die mit den verfügbaren Zutaten gemixt werden können.
