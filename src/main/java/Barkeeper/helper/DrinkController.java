@@ -1,0 +1,13 @@
+package Barkeeper.helper;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class DrinkController {
+
+    @GetMapping("/drinks")
+    public String getDrinks() {
+        return "List of drinks";
+    }
+}
